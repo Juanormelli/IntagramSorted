@@ -19,4 +19,4 @@ function randomWinner(count){
 
     
 }
-console.log( randomWinner( count(fakeCommits)))
+console.log(randomWinner( count(fakeCommits)))
